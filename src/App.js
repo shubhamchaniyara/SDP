@@ -19,7 +19,7 @@ function App() {
     //   </div>
     // </section>
    <div className="App">
-     <h1 className="text-17xl text-red-500">shubham chaniyara</h1>
+     <h1 className="text-17xl text-red-500">shubham</h1>
    </div>
   );
 }
